@@ -1,0 +1,4 @@
+cluster,gdp_per_capita,social_support,healthy_life_expectancy,freedom_to_make_life_choices,generosity,perceptions_of_corruption,happiness_score
+0,1.519,1.288,0.584,0.654,0.13,0.111,5.907
+1,0.925,0.772,0.342,0.519,0.15,0.11,4.22
+2,1.911,1.423,0.705,0.752,0.197,0.401,6.939
